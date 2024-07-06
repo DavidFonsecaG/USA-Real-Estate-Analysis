@@ -1,7 +1,18 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Real Estate USA
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This Jupyter Notebook project analyzes real estate data in the USA. It covers data cleaning, exploratory analysis, and linear regression modeling to understand factors influencing property prices.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Environment Setup
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+To run this project, you need the following Python libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+- geopandas
+- scikit-learn
+
+You can install the required libraries using pip:
+```sh
+pip install pandas numpy matplotlib seaborn scipy geopandas scikit-learn
